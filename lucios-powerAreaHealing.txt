@@ -1,1 +1,1 @@
-1.0.1|Testando texto de versionamento
+1.0.0|lucios-powerAreaHealing
