@@ -1,1 +1,1 @@
-1.0.1|lucios-powerLuminaryGlare
+1.0.0|lucios-powerLuminaryGlare

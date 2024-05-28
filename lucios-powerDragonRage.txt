@@ -1,1 +1,1 @@
-1.0.1|lucios-powerDragonRage
+1.0.0|lucios-powerDragonRage
