@@ -1,1 +1,1 @@
-1.0.0|lucios-powerFierySolarGlow
+1.0.1|lucios-powerFierySolarGlow

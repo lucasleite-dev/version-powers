@@ -1,1 +1,1 @@
-1.0.0|lucios-powerBlizzard
+1.0.1|lucios-powerBlizzard

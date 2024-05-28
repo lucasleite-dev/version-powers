@@ -1,1 +1,1 @@
-1.0.0|lucios-powerInfernalConjuration
+1.0.1|lucios-powerInfernalConjuration
