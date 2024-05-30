@@ -1,1 +1,1 @@
-1.0.1|Resolvido bugs, otimização e sistema de áudio com base na distância.
+1.0.2|Resolvido bugs, otimização e sistema de áudio com base na distância.
