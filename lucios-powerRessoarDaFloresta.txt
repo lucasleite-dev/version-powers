@@ -1,1 +1,1 @@
-1.0.0|lucios-powerRessoarDaFloresta
+1.0.1|Corrigido um problema ao tentar parar o som.
