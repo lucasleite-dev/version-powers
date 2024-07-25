@@ -1,1 +1,1 @@
-1.0.0|lucios-powerDefinhar
+1.0.1|Adicionado a configuração de bloquear teclas dos alvos, ajustado pra quem usou o poder não receber dano e adicionado a opção de dar dano no colete primeiro.
