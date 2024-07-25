@@ -1,1 +1,1 @@
-1.0.0|lucios-powerTorrenteAquatica
+1.0.1|Adicionado opção de causar dano em colete.
