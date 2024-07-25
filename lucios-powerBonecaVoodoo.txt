@@ -1,1 +1,1 @@
-1.0.0|lucios-powerBonecaVoodoo
+1.0.1|Adicionado opção de bloquear as teclas do conjurador e corrigido um problema ao tentar parar o som.
